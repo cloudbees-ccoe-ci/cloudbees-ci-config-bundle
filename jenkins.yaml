@@ -78,3 +78,4 @@ credentials:
           id: "cloudbees-ci-workshop-github-app"
           owner: "cloudbees-ccoe-ci"
           privateKey: "${gitHubAppPrivateKey}"
+# Adding a comment as a test
